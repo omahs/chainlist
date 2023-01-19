@@ -52,7 +52,7 @@
        - `pool` refers that the token represents a pool token.
        - `bridge` refers that the token is a bridge token.
        - `cw20` refers that the token is a cw20 token.
-       - `erc20` refers thatthe token is an erc20 token.
+       - `erc20` refers that the token is an erc20 token.
      - `origin_chain`
        - The origin chain where this token was issued.
      - `origin_denom`
